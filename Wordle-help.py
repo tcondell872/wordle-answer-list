@@ -141,4 +141,4 @@ if as1 == 4:
                     print(a3)
             if numbre1 == 0:
                 print(a3)
-print("The above letters are all possibilitys")
+print("The above words are all possibilitys")
